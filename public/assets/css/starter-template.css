@@ -1,0 +1,16 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+footer{
+  background-color: #353A3F;
+  color: white;
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  padding: 18px;
+}
